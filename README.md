@@ -14,4 +14,4 @@ Agregarle un header, ver si es posible crear una línea con las paradas.
 
 
 ## Exercise on eyes
-<img src= "MapAnimation.png" width='300' height='300'/>
+<img src= "MapAnimation.png" width='500' height='300'/>
